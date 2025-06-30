@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohamed Aflal</h1>
-<h3 align="center">A passionate developer currently exploring the world of Backend Development</h3>
+<h3 align="center">Fueled by a deep passion for technology and a constant desire to learn.</h3>
 
 ---
 
