@@ -4,8 +4,6 @@
 ---
 
 - 🔭 I’m currently working on **open source projects**
-- 🌱 I’m currently learning **Backend Development**
-- 💬 Ask me about **JavaScript, React.js, Python, or Git**
 - 📫 How to reach me:  
   - 📧 Email: [afzzy01@gmail.com](mailto:afzzy01@gmail.com)  
   - 💼 LinkedIn: [linkedin.com/in/maflal](https://www.linkedin.com/in/maflal)
