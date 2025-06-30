@@ -30,22 +30,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maflal&show_icons=true&theme=github_dark" alt="GitHub Stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maflal&theme=github-dark" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maflal&layout=compact&theme=github_dark" alt="Top Languages"/>
-</p>
-
----
-
 ### 🔗 Connect with me
 
 <p>
@@ -60,4 +44,3 @@
 ---
 
 ![](https://komarev.com/ghpvc/?username=maflal&label=PROFILE+VIEWS)
-
